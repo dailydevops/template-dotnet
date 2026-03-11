@@ -4,7 +4,6 @@
 files:
   - "!**/*"
   - ".commitlintrc"
-  - ".csharpierignore"
   - ".gitattributes"
   - ".gitignore"
   - ".mcp.json"
