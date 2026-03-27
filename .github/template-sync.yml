@@ -27,6 +27,7 @@ files:
   - ".github/PULL_REQUEST_TEMPLATE/**/*"
   - ".github/workflows/cleanup-cache.yml"
   - ".github/workflows/clone-labels.yml"
+  - ".github/workflows/mutation.yml"
   - ".github/workflows/publish-nuget.yml"
   - ".github/workflows/update-license.yml"
   - ".vscode/**/*"
