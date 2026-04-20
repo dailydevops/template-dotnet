@@ -91,6 +91,12 @@
       "groupSlug": "aws-sdk-packages",
       "matchManagers": ["nuget"],
       "matchPackageNames": ["AWSSDK.*"]
+    },
+    {
+      "groupName": "NetEvolve HttpCorrelation packages",
+      "groupSlug": "netevolve-httpcorrelation-packages",
+      "matchManagers": ["nuget"],
+      "matchPackageNames": ["NetEvolve.Http.Correlation", "NetEvolve.Http.Correlation.*"]
     }
   ]
 }
