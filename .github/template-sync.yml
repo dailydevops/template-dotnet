@@ -4,8 +4,6 @@
 files:
   - "!**/*"
   - ".commitlintrc"
-  - ".gitattributes"
-  - ".gitignore"
   - ".mcp.json"
   - "AGENTS.md"
   - "CODE_OF_CONDUCT.md"
