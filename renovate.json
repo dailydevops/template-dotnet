@@ -40,7 +40,7 @@
       "prPriority": 5,
       "labels": ["dependency:nuget"],
       "semanticCommitScope": "deps",
-      "minimumReleaseAge": "3 days"
+      "minimumReleaseAge": "1 day"
     },
     {
       "matchManagers": ["nuget"],
